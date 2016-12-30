@@ -84,7 +84,7 @@ li a:hover:not(.active) {
 
 #brand {
   float: left;
-  margin: 0.75em auto 0em 5%;
+  margin: 32px auto 0px 5%;
   font-size: 2.5em;
   text-align: left;
 }
@@ -94,7 +94,7 @@ li a:hover:not(.active) {
   background-color: #CECECE;
   float: right;
   width: 95%;
-  margin: 1.5em 0 1.5em auto;
+  margin: 24px 0 24px auto;
 }
 
 #tagline {
