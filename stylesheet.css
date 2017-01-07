@@ -4,6 +4,12 @@ body {
   font-family: 'Fira Sans', 'Roboto', sans-serif;
 }
 
+p {
+  color: #000;
+}
+
+ /*Menu*/
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -87,6 +93,7 @@ li a:hover:not(.active) {
   margin: 32px auto 0px 5%;
   font-size: 40px;
   text-align: left;
+  color: #31363b;
 }
 
 #divider1 {
@@ -114,7 +121,7 @@ li a:hover:not(.active) {
 }
 
 #downloadbutton {
-  font-size: 24px;
+  font-size: 24px;chrome://settings/
   transition: .35s;
 }
 
@@ -137,6 +144,7 @@ li a:hover:not(.active) {
   text-align: center;
   font-weight: normal;
   font-size: 28px;
+  color: #000;
 }
 
 #contactLink {
