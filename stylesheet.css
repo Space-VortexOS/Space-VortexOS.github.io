@@ -145,8 +145,7 @@ li a:hover:not(.active) {
 
 #mail {
 
-}left;
-  float: left;
+}
 
 #youtube {
 
@@ -200,4 +199,24 @@ li a:hover:not(.active) {
 
 .downloadPageButton:hover {
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.24), 0 2px 4px 0 rgba(0,0,0,0.19);
+}
+
+/*About content*/
+
+.what {
+  text-align: center;
+  color: #000;
+  font-size: 20px;
+}
+
+#what {
+  text-align: center;
+  color: #000;
+}
+
+.breakline {
+  width: 80%;
+  margin: 8px 10% 8px 10%;
+  background-color: #CECECE;
+  height: 1px;
 }
