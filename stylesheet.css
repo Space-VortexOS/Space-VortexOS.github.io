@@ -225,7 +225,7 @@ li a:hover:not(.active) {
   width: 80%;
   margin: 0 10%;
   border-collapse: collapse;
-  box-shadow: 0 0 .2rem rgba(0,0,0,0.12);
+  box-shadow: 0 0 .2rem rgba(0,0,0,0.35);
 }
 
 th {
