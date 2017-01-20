@@ -55,7 +55,7 @@ li a:hover:not(.active) {
   /*min-height: 1600px;*/
   margin: 4.5em 10% 2em;
   background-color: #fcfcfc;
-  box-shadow: 0 .1rem .2rem rgba(0,0,0,0.12),0 0 .1rem rgba(0,0,0,0.12)
+  box-shadow: 0 .1rem .2rem rgba(0,0,0,0.12),0 0 .1rem rgba(0,0,0,0.12);
 }
 
 .button {
@@ -153,8 +153,7 @@ li a:hover:not(.active) {
 
 #mail {
 
-}left;
-  float: left;
+}
 
 #youtube {
 
@@ -208,4 +207,66 @@ li a:hover:not(.active) {
 
 .downloadPageButton:hover {
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.24), 0 2px 4px 0 rgba(0,0,0,0.19);
+}
+
+/*About content*/
+
+.what {
+  text-align: center;
+  color: #000;
+  font-size: 20px;
+}
+
+#what {
+  text-align: center;
+  color: #000;
+}
+
+.breakline {
+  width: 80%;
+  margin: 8px 10% 8px 10%;
+  background-color: #CECECE;
+  height: 1px;
+}
+
+.techs {
+  width: 80%;
+  margin: 0 10%;
+  border-collapse: collapse;
+  box-shadow: 0 0 .2rem rgba(0,0,0,0.35);
+}
+
+th {
+  padding: 16px;
+  border-bottom: 1px solid #CECECE;
+  background-color: rgba(46, 204, 113, .85);
+}
+
+td {
+  padding: 16px;
+  border-bottom: 1px solid #CECECE;
+  font-size: 20px;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+#softhead {
+  font-size: 24px;
+  width: 30%;
+  font-weight: normal;
+  text-align: left;
+  color: #fcfcfc;
+}
+
+#dischead {
+  font-size: 24px;
+  font-weight: normal;
+  text-align: left;
+  color: #fcfcfc;
+}
+
+#butts-teehee {
+  border: 0px;
 }
